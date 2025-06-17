@@ -43,7 +43,7 @@
 /*  DESCRIPTION                                                           */
 /*                                                                        */
 /*    This function polls the specified interface for the link state using*/
-/*    thread sleep for the necessary conditions n the IP instance. Where  */
+/*    thread sleep for the necessary conditions in the IP instance. Where */
 /*    the requested status exists only at the IP instance, for example    */
 /*    NX_IP_INITIALIZE_DONE this service supplies the IP setting for that */
 /*    status.                                                             */
